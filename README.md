@@ -14,18 +14,19 @@ Want to know more about me? [Check out my portfolio.](https://ussra.dev/)
 
 <br>
 
-<a href="https://github.com/youssra-ghninou/Stats-preview-card-component">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Stats-preview-card-component
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/youssra-ghninou/QR-code-component">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=QR-code-component&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/youssra-ghninou/Stats-preview-card-component">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Stats-preview-card-component&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/youssra-ghninou/Team-store">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Team-store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 
 <a href="https://github.com/youssra-ghninou/HtmlWeb">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=HtmlWeb&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
