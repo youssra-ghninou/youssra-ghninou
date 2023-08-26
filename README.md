@@ -8,39 +8,6 @@ Hey there 👋
 Passionate Software Engineering student 🚀 | Web Developer 💻 | Turning lines of code into creative solutions | Lifelong learner 📚 | Building the web, one pixel at a time ⚡️ | Currently crafting digital experiences and expanding my coding horizons | Let's collaborate and innovate together! 🌟
 Want to know more about me? [Check out my portfolio.](https://personnal-portfolio.vercel.app/)
 
-## 📌 Repositories
-
-<br>
-
-
-<a href="https://github.com/youssra-ghninou/i2i-infogerance">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=QR-code-component&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://personnal-portfolio.vercel.app/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Stats-preview-card-component&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/youssra-ghninou/dev_blog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Team-store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/youssra-ghninou/internship">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=HtmlWeb&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/youssra-ghninou/share-prompts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=youssra-ghninou&repo=Youssra_store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
